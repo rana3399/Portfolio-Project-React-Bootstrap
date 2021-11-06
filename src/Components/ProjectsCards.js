@@ -7,28 +7,33 @@ const ProjectsCards=({projectsData})=> {
 
 
     return (
-        <div className="card-main-container">
-            <span>My Projects</span>
-            {projectsData.map((project) =>{
-                return(
-            <div className="card-child-container">
+        <>
+        <h3 className= 'cards-main-header'> Some of my Projects</h3>
 
-                <div className="card" >
-                    <img className="card-img-top" src="..." alt="Card image cap"/>
-                    <div className="card-body">
-                        <h5 className="card-title"> {project.name} </h5>
-                        <p className="card-text"> {project.description} </p>
-                        <a href="#" className="btn btn-primary">Go somewhere</a>
-                    </div>
-                </div>
+            <div className="card-main-container">
+                
+                {projectsData.map((project, id) =>{
+                    return(
+                        <div className="card-child-container" key= {project.id}>
+
+                            <div className="card" >
+                                <img 
+                                className="my-card-img-top card-img-top card-img-bottom" 
+                                src={ project.image} 
+                                alt="Card image cap"/>
+
+                                <div className="card-body">
+                                    <h5 className="card-title"> {project.name} </h5>
+                                    <p className="card-text"> {project.description} </p>
+                                    <a href="https://rana3399.github.io/Visit-Barcelona-1/" className="btn btn-primary">Go somewhere</a>
+                                </div>
+                            </div>
+                        </div>
+                    )
+
+                })}
             </div>
-                )
-              
-            
-              
-
-            })}
-        </div>
+        </>
     )
 }
 

@@ -4,6 +4,7 @@ import Particles from 'react-particles-js';
 import Navbar from './Components/Navbar';
 import Header from './Components/Header';
 import Projects from './Components/Projects';
+import SocialMedia from './Components/SocialMedia';
 
 
 
@@ -35,6 +36,7 @@ function App() {
       <Navbar />
       <Header />
       <Projects />
+      <SocialMedia />
     </div>
   );
 }
