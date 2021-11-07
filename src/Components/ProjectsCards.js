@@ -14,21 +14,21 @@ const ProjectsCards=({projectsData})=> {
                 
                 {projectsData.map((project, id) =>{
                     return(
-                        <div className="card-child-container" key= {project.id}>
+                        
 
-                            <div className="card" >
+                            <div className="card my-card mx-1 " key= {project.id}>
                                 <img 
-                                className="my-card-img-top card-img-top card-img-bottom" 
+                                className="img-fluid rounded card-img-top card-img-bottom" 
                                 src={ project.image} 
-                                alt="Card image cap"/>
+                                alt="Card-cap"/>
 
                                 <div className="card-body">
                                     <h5 className="card-title"> {project.name} </h5>
                                     <p className="card-text"> {project.description} </p>
-                                    <a href="https://rana3399.github.io/Visit-Barcelona-1/" className="btn btn-primary">Go somewhere</a>
+                                    <button href={project.link} target="_blank" className="btn-block my-card-btn">Read more...</button>
                                 </div>
                             </div>
-                        </div>
+                        
                     )
 
                 })}

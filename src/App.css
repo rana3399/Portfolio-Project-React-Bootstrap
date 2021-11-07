@@ -100,6 +100,13 @@ nav a.nav-link{
 
 /* ******************CARDS*********************** */
 
+.cards-main-header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
 .card-main-container{
   display: flex;
   justify-content: center;
@@ -107,26 +114,24 @@ nav a.nav-link{
   align-content: center;
   margin-top: 5rem;
   
- 
 }
 
-.cards-main-header{
-  display: flex;
-  justify-content: center;
-  align-items: center;
+.my-card{
+  border: red 1px solid;
+  height: 30rem;
+  width: 20rem;
 }
 
 
-.card-child-container{
-  margin: 0 1rem;
-  border: rgb(211, 208, 208) solid .1rem;
-  
+.my-card-btn{
+  position: absolute;
+  top: 24rem;
+  left: 4rem;
+  width: 8rem;
+  height: 3rem;
+  background-color: rgb(138, 134, 133);
+  border-radius: .5rem;
 }
-
-.my-card-img-top{
-  border-radius: 2rem;
-}
-
 
 /* *************SOCIAL MEDIA****************************** */
 .social-media-header{
@@ -138,7 +143,8 @@ nav a.nav-link{
 .social-icon{
   margin: 1rem .4rem;
   border-radius: 5rem;
-  
 
 }
+
+
 
