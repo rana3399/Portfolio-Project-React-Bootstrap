@@ -10,12 +10,10 @@ import {
 import "bootstrap/dist/css/bootstrap.min.css"
 import Particles from 'react-particles-js';
 
-import Navbar from './Components/Navbar';
-import Header from './Components/Header';
-import Projects from './Components/Projects';
-import SocialMedia from './Components/SocialMedia';
-import About from './Components/About';
 
+
+import About from './Components/About';
+import Home from './Components/Home';
 import ContactMe from './Components/ContactMe';
 
 
@@ -24,48 +22,14 @@ function App() {
   return (
     <>
     <BrowserRouter>
-    
+      <div className="App">
+      <Routes>  
+      <Route path="/" element={<Home />} />
+      <Route path="/contact" element={<ContactMe />} />
+      <Route path="/about" element={<About />} />
+      </Routes>  
+      </div>
 
-    <Link to="/contact">Contact</Link>
-
-
-    <div className="App">
-      <Particles 
-      params={{
-        Particles:{
-          number: {
-            value: 30,
-            density: {
-              enable: true,
-              value_area: 900
-            }
-          },
-          shape: {
-            type: "star",
-            stroke: {
-              width: 6,
-              color: "#f9ab"
-
-            }
-          }
-        }
-      }}
-      
-      />
-      <Navbar />
-      <Header />
-      <Projects />
-      <SocialMedia />
-      <About/>
-      
-      <Routes>
-      <Route Path= '/contact' component= {ContactMe}/>
-
-      </Routes>
-      
-  
-    </div>
-    
     </BrowserRouter>
     </>
    

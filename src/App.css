@@ -2,6 +2,7 @@
 
 :root{
   --primary-white: #ffff;
+  --primary-blue: rgb(32, 97, 216);
   --primary-dark: rgba(255,255,255,0);
   --primary-orange: rgba(	255,140,0);
   --primary-red: rgba(128,0,0);
@@ -17,6 +18,7 @@ nav{
   background-color: transparent;
   padding: .5rem;
   border-radius: 1rem;
+  margin: 0 .5rem;
 
 }
 
@@ -25,7 +27,7 @@ nav a.nav-link{
 
 }
 
-.navbar-nav > li a.active, .navbar-nav > li a.focus{
+.navbar-nav > li a.active, .navbar-nav > li > a.focus{
   border-top: 0.1875rem solid var(--primary-orange)
 }
 
@@ -39,6 +41,8 @@ nav a.nav-link{
   font-size: 0.8rem;
   letter-spacing: 0.1rem;
   margin: 0 1rem;
+
+  border-top: 0.1875rem solid transparent;
 }
 
 
@@ -48,6 +52,13 @@ nav a.nav-link{
   background-size: cover;
   background-position: cover;
   height: 100vh;
+
+}
+
+.button-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
 
 }
 
