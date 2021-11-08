@@ -1,8 +1,11 @@
 import react from "react";
+import Navbar from "./Navbar";
 
 const ContactMe =()=>{
 
     return (
+        <>
+        <Navbar />
 <div className="container">
     <div className="row">
         <div className="col-md-12">
@@ -56,7 +59,7 @@ const ContactMe =()=>{
         </div>
     </div>
 </div>
-
+</>
     )
 }
 

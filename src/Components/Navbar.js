@@ -10,7 +10,8 @@ const Navbar = () => {
         <nav className="navbar navbar-expand-lg navbar-light bg-primary">
             <div className="container">
 
-                <a className="navbar-brand" href="#"></a>
+                {/* <a className="navbar-brand" href="#"></a> */}
+                <Link to = "/" className="navbar-brand" >Logo</Link>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <FontAwesomeIcon icon={faBars} />
                 </button>

@@ -11,32 +11,32 @@ function Home() {
         <div>
             
             <Particles 
-      params={{
-        Particles:{
-          number: {
-            value: 30,
-            density: {
-              enable: true,
-              value_area: 900
-            }
-          },
-          shape: {
-            type: "star",
-            stroke: {
-              width: 6,
-              color: "#f9ab"
+                params={{
+                    Particles:{
+                    number: {
+                        value: 30,
+                        density: {
+                        enable: true,
+                        value_area: 900
+                        }
+                    },
+                    shape: {
+                        type: "star",
+                        stroke: {
+                        width: 6,
+                        color: "#f9ab"
 
-            }
-          }
-        }
-      }}
-      
-      />
+                        }
+                    }
+                    }
+                }}
+            
+            />
 
-        <Navbar />
-        <Header />
-        <Projects />
-        <SocialMedia />
+            <Navbar />
+            <Header />
+            <Projects />
+            <SocialMedia />
 
         </div>
     )

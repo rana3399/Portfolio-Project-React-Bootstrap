@@ -1,6 +1,10 @@
 import './App.css';
 import './About.css';
 
+import About from './Components/About';
+import Home from './Components/Home';
+import ContactMe from './Components/ContactMe';
+
 import {
   BrowserRouter,
   Link,
@@ -9,14 +13,6 @@ import {
 } from 'react-router-dom';
 import "bootstrap/dist/css/bootstrap.min.css"
 import Particles from 'react-particles-js';
-
-
-
-import About from './Components/About';
-import Home from './Components/Home';
-import ContactMe from './Components/ContactMe';
-
-
 
 function App() {
   return (

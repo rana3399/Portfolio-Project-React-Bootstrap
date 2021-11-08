@@ -115,8 +115,21 @@ nav a.nav-link{
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-top: 2rem;
+  
+
 
 }
+
+.cards-main-header h3{
+
+  border: 1px solid black;
+  border-radius: .5rem;
+  padding: 1rem;
+  background-color: var(--primary-orange);
+
+}
+
 
 .card-main-container{
   display: flex;

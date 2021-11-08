@@ -1,7 +1,11 @@
 import React from 'react'
+import Navbar from './Navbar'
+
 
 function About() {
     return (
+        <>
+        <Navbar />
         <div>
             <section className="section about-section gray-bg" id="about">
             <div className="container">
@@ -32,7 +36,7 @@ function About() {
                                     </div>
                                     <div className="media">
                                         <label>Phone</label>
-                                        <p>+64 6313 75245</p>
+                                        <p>+34 6313 75245</p>
                                     </div>
                                 
                                     <div className="media">
@@ -55,6 +59,7 @@ function About() {
 
 
         </div>
+        </>
     )
 }
 
