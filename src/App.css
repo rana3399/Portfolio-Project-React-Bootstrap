@@ -88,6 +88,7 @@ nav a.nav-link{
 .typed-text{
   font-size: 2rem;
   color: var(--primary-white);
+  font-family: 'Times New Roman', Times, serif;
 }
 
 /* **************BTN MAIN OFFER*********************** */
@@ -148,11 +149,9 @@ nav a.nav-link{
 
 
 .my-card-btn{
-  position: absolute;
-  top: 24rem;
-  left: 4rem;
+
   width: 8rem;
-  height: 3rem;
+  min-height: 3.5rem;
   background-color: rgb(138, 134, 133);
   border-radius: .5rem;
 }

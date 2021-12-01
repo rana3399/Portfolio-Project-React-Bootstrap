@@ -1,5 +1,7 @@
 import React from 'react'
 import Navbar from './Navbar'
+//import Ahmed from '../public/image/Rana-Ahmed-CV-01.png'
+ //const pic = require('../img/hero-img-1.jpg');
 
 
 function About() {
@@ -9,7 +11,7 @@ function About() {
         <div>
             <section className="section about-section gray-bg" id="about">
             <div className="container">
-                <div className="row align-items-center flex-row-reverse">
+                <div className="row flex-row-reverse">
                     <div className="col-lg-6">
                         <div className="about-text go-to">
                             <h3 className="dark-color">About Me</h3>
@@ -49,7 +51,7 @@ function About() {
                     </div>
                     <div className="col-lg-6">
                         <div className="about-avatar">
-                            <img src="https://bootdey.com/img/Content/avatar/avatar7.png" title="" alt="my-personal-img"/>
+                            <img src={require('../img/ahmed.png').default} title="" alt="my-personal-img"/>
                         </div>
                     </div>
                 </div>

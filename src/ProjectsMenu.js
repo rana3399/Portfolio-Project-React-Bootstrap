@@ -7,7 +7,8 @@ const ProjectsMenu = [
       Language: "HTML, CSS, JavaScript",
       description:
         "I have used updated HTML and most recent version of CSS while creating this website",
-      link: "https://rana3399.github.io/Visit-Barcelona-1/"
+      gitlink: "https://rana3399.github.io/Visit-Barcelona-1/",
+      live: "https://rana3399.github.io/Visit-Barcelona-1/"
     
     },
   
