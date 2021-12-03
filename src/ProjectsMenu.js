@@ -1,7 +1,7 @@
 const ProjectsMenu = [
     {
       id: 1,
-      image: "project-img/tourism.jpg",
+      image: "build/project-img/tourism.jpg",
       name: "Visit Barcelona",
       category: "Travel & Tourism",
       Language: "HTML, CSS, JavaScript",
@@ -14,7 +14,7 @@ const ProjectsMenu = [
   
     {
       id: 2,
-      image: "project-img/coffee.jpg",
+      image: "build/project-img/coffee.jpg",
       name: "Visit Barcelona",
       category: "Travel & Tourism",
       Language: "HTML, CSS, JavaScript",

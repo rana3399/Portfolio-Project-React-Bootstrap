@@ -1,10 +1,6 @@
 import React from 'react'
 
 const ProjectsCards=({projectsData})=> {
-
-    // const allProjects = ProjectsMenu;
-    console.log(projectsData);
-
     return (
         <>
         <div className = 'cards-main-header'> 
@@ -14,12 +10,12 @@ const ProjectsCards=({projectsData})=> {
             <div className="card-main-container row justify-content-center ">   
                 {projectsData.map((project, id) =>{
                     return(
-
                         <div className="card my-card m-2 col-10 col-md-3 col-lg-3" key= {project.id}>
                             <img 
                             className="img-fluid rounded card-img-top card-img-bottom" 
                             src={ project.image} 
-                            alt="Card-cap"/>
+                            alt="Card-cap"                               
+                            />
 
                             <div className="card-body d-flex flex-column justify-content-center ">
                                 <h4 className="card-title"> {project.name} </h4>
