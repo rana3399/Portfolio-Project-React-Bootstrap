@@ -16,18 +16,19 @@ import Particles from 'react-particles-js';
 
 function App() {
   return (
+    
     <>
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <div className="App">
       <Routes>  
-      <Route path="/" element={<Home />} />
-      <Route path="/contact" element={<ContactMe />} />
-      <Route path="/about" element={<About />} />
+        <Route path="/" element={<Home />} />
+        <Route path="/contact" element={<ContactMe />} />
+        <Route path="/about" element={<About />} />
       </Routes>  
       </div>
 
     </BrowserRouter>
-    </>
+  </>
    
   );
 }
