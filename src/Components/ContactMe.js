@@ -1,5 +1,6 @@
 import react from "react";
 import Navbar from "./Navbar";
+import SocialMedia from "./SocialMedia";
 
 const ContactMe =()=>{
 
@@ -59,6 +60,8 @@ const ContactMe =()=>{
         </div>
     </div>
 </div>
+
+<SocialMedia />
 </>
     )
 }

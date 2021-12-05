@@ -10,8 +10,9 @@ const Navbar = () => {
         <nav className="navbar navbar-expand-lg navbar-light bg-primary">
             <div className="container">
 
-                {/* <a className="navbar-brand" href="#"></a> */}
+                
                 <Link to = "/" className="navbar-brand" >Logo</Link>
+                
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <FontAwesomeIcon icon={faBars} />
                 </button>
@@ -20,10 +21,10 @@ const Navbar = () => {
                     <ul className="navbar-nav ml-auto">
 
                         <li className="nav-item active">
-                        <Link to = "/about" className = " nav-link" >About me</Link>
+                        <Link to = "/about" className = "nav-link" >About me</Link>
                         </li>
                         <li className="nav-item">
-                        <Link className="nav-link" to>My works</Link>
+                        <Link to="/myworks" className = "nav-link">My works</Link>
                         </li>
                         <li className="nav-item">
                         <Link to ='/contact' className = "nav-link" >Contact me</Link>

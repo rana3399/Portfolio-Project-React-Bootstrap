@@ -1,0 +1,42 @@
+nav{
+    z-index: 2;
+  }
+  
+  .my-btn{
+    border: .1rem solid var(--primary-orange);
+    background-color: transparent;
+    padding: .5rem;
+    border-radius: 1rem;
+    margin: 0 .5rem;
+  
+  }
+  
+  .my-btn:hover {
+    background-color: var(--primary-orange);
+    color:  var(--primary-white);
+    transition: all .9s ease;
+  
+  }
+  
+  nav a.nav-link{
+    font-size: 0.8rem;
+  
+  }
+  
+  .navbar-nav > li a.active, .navbar-nav > li > a.focus{
+    border-top: 0.1875rem solid var(--primary-orange)
+  }
+  
+  .navbar-nav >li > a:hover{
+    border-top: 0.1875rem solid var(--primary-orange);
+  }
+  
+  .navbar-nav >li > a{
+    color: var(--primary-white) !important ;
+    font-weight: bolder;
+    font-size: 0.8rem;
+    letter-spacing: 0.1rem;
+    margin: 0 1rem;
+  
+    border-top: 0.1875rem solid transparent;
+  }

@@ -1,0 +1,18 @@
+/* *************SOCIAL MEDIA****************************** */
+.social-media-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .social-icon{
+    margin: 1rem .4rem;
+    border-radius: 5rem;
+  
+  }
+  
+  .social-icon:hover {
+    width: 3rem;
+    transition: all 1s ease;
+  
+  }

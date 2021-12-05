@@ -9,8 +9,7 @@ const Projects =() =>{
 
     console.log("this a test from Pro.js");
     return (
-        <div>
-        
+        <div>      
             <ProjectsCards projectsData={projectsData} />
         </div>
     )

@@ -1,0 +1,48 @@
+/* ******************CARDS*********************** */
+
+.cards-main-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem; 
+}
+  
+.cards-main-header h3{
+  
+    border: 1px solid black;
+    border-radius: .5rem;
+    padding: 1rem;
+    background-color: var(--primary-orange); 
+}
+  
+  
+.card-main-container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+    margin-top: 5rem;
+    
+}
+  
+.my-card{
+    border: red 1px solid;
+    height: 30rem;
+    width: 20rem;
+}
+  
+  
+.my-card-btn{
+    max-width: 8rem;
+    min-height: 3.5rem;
+    padding: .5rem;
+    background-color: rgb(0, 0, 0);
+    color: var(--primary-white);
+    border-radius: .5rem;
+}
+  
+.my-card-btn:hover {
+    background-color: var(--primary-orange);
+    color:  var(--primary-white);
+    transition: all .9s ease;
+}

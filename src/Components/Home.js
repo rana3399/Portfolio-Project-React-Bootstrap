@@ -1,6 +1,8 @@
 import React from 'react'
 import Particles from 'react-particles-js';
 
+
+
 import Navbar from './Navbar';
 import Header from './Header';
 import Projects from './Projects';

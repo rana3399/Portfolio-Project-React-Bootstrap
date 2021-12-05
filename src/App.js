@@ -1,9 +1,13 @@
-import './App.css';
-import './About.css';
+import './CSS/App.css';
+import './CSS/About.css';
+import './CSS/Navbar.css';
+import './CSS/Cards.css';
+import './CSS/SocialMedia.css';
 
 import About from './Components/About';
 import Home from './Components/Home';
 import ContactMe from './Components/ContactMe';
+import MyWorks from './Components/MyWorks';
 
 import {
   HashRouter,
@@ -24,6 +28,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/contact" element={<ContactMe />} />
         <Route path="/about" element={<About />} />
+        <Route path="/myworks" element= {<MyWorks />} />
       </Routes>  
       
       </div>
