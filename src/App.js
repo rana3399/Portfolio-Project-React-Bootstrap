@@ -6,7 +6,7 @@ import Home from './Components/Home';
 import ContactMe from './Components/ContactMe';
 
 import {
-  BrowserRouter,
+  HashRouter,
   Link,
   Routes,
   Route
@@ -18,7 +18,7 @@ function App() {
   return (
     
     <>
-    <BrowserRouter>
+    <HashRouter>
       <div className="App">
       <Routes>  
         <Route path="/" element={<Home />} />
@@ -28,7 +28,7 @@ function App() {
       
       </div>
 
-    </BrowserRouter>
+    </HashRouter>
   </>
    
   );
