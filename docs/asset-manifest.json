@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/Portfolio-Project-React-Bootstrap/static/css/main.cd97896f.chunk.css",
-    "main.js": "/Portfolio-Project-React-Bootstrap/static/js/main.bb2b258c.chunk.js",
-    "main.js.map": "/Portfolio-Project-React-Bootstrap/static/js/main.bb2b258c.chunk.js.map",
+    "main.js": "/Portfolio-Project-React-Bootstrap/static/js/main.6932c278.chunk.js",
+    "main.js.map": "/Portfolio-Project-React-Bootstrap/static/js/main.6932c278.chunk.js.map",
     "runtime-main.js": "/Portfolio-Project-React-Bootstrap/static/js/runtime-main.fd9d52f8.js",
     "runtime-main.js.map": "/Portfolio-Project-React-Bootstrap/static/js/runtime-main.fd9d52f8.js.map",
     "static/css/2.0a9ec390.chunk.css": "/Portfolio-Project-React-Bootstrap/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.8be94db6.chunk.js": "/Portfolio-Project-React-Bootstrap/static/js/2.8be94db6.chunk.js",
-    "static/js/2.8be94db6.chunk.js.map": "/Portfolio-Project-React-Bootstrap/static/js/2.8be94db6.chunk.js.map",
+    "static/js/2.2cd33a27.chunk.js": "/Portfolio-Project-React-Bootstrap/static/js/2.2cd33a27.chunk.js",
+    "static/js/2.2cd33a27.chunk.js.map": "/Portfolio-Project-React-Bootstrap/static/js/2.2cd33a27.chunk.js.map",
     "static/js/3.a0dbe645.chunk.js": "/Portfolio-Project-React-Bootstrap/static/js/3.a0dbe645.chunk.js",
     "static/js/3.a0dbe645.chunk.js.map": "/Portfolio-Project-React-Bootstrap/static/js/3.a0dbe645.chunk.js.map",
     "index.html": "/Portfolio-Project-React-Bootstrap/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/Portfolio-Project-React-Bootstrap/static/css/2.0a9ec390.chunk.css.map",
     "static/css/main.cd97896f.chunk.css.map": "/Portfolio-Project-React-Bootstrap/static/css/main.cd97896f.chunk.css.map",
-    "static/js/2.8be94db6.chunk.js.LICENSE.txt": "/Portfolio-Project-React-Bootstrap/static/js/2.8be94db6.chunk.js.LICENSE.txt",
+    "static/js/2.2cd33a27.chunk.js.LICENSE.txt": "/Portfolio-Project-React-Bootstrap/static/js/2.2cd33a27.chunk.js.LICENSE.txt",
     "static/media/ahmed.png": "/Portfolio-Project-React-Bootstrap/static/media/ahmed.b08259f3.png",
     "static/media/App.css": "/Portfolio-Project-React-Bootstrap/static/media/hero-img-1.161851fb.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.fd9d52f8.js",
     "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.8be94db6.chunk.js",
+    "static/js/2.2cd33a27.chunk.js",
     "static/css/main.cd97896f.chunk.css",
-    "static/js/main.bb2b258c.chunk.js"
+    "static/js/main.6932c278.chunk.js"
   ]
 }

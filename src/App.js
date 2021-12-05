@@ -18,13 +18,14 @@ function App() {
   return (
     
     <>
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <BrowserRouter>
       <div className="App">
       <Routes>  
         <Route path="/" element={<Home />} />
         <Route path="/contact" element={<ContactMe />} />
         <Route path="/about" element={<About />} />
       </Routes>  
+      
       </div>
 
     </BrowserRouter>

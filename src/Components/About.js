@@ -1,5 +1,6 @@
 import React from 'react'
 import Navbar from './Navbar'
+import SocialMedia from './SocialMedia'
 //import Ahmed from '../public/image/Rana-Ahmed-CV-01.png'
  //const pic = require('../img/hero-img-1.jpg');
 
@@ -61,6 +62,7 @@ function About() {
 
 
         </div>
+        <SocialMedia />
         </>
     )
 }
