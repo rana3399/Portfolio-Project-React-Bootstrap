@@ -1,5 +1,5 @@
-import touristImage from "./Components/project-img/tourism.jpg";
-import coffeeImage from "./Components/project-img/coffee.jpg";
+import touristImage from "./tourism.jpg";
+import coffeeImage from "./coffee.jpg";
 
 const ProjectsMenu = [
   {
