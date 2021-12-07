@@ -1,12 +1,14 @@
 import React from 'react';
-import Navbar from './Navbar';
-import Projects from './Projects';
+import Navbar from './NavBar/Navbar';
+import Projects from './Project/Projects';
+import SocialMedia from './SocialMedia/SocialMedia';
 
 const MyWorks=()=> {
     return (
         <>
         <Navbar />
         <Projects />
+        <SocialMedia />
         </>
     )
 }

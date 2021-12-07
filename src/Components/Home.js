@@ -1,12 +1,10 @@
 import React from 'react'
 import Particles from 'react-particles-js';
 
-
-
-import Navbar from './Navbar';
+import Navbar from './NavBar/Navbar';
 import Header from './Header';
-import Projects from './Projects';
-import SocialMedia from './SocialMedia';
+import Projects from './Project/Projects';
+import SocialMedia from './SocialMedia/SocialMedia';
 
 function Home() {
     return (

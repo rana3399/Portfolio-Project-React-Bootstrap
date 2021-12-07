@@ -1,12 +1,11 @@
 import './CSS/App.css';
-import './CSS/About.css';
-import './CSS/Navbar.css';
-import './CSS/Cards.css';
-import './CSS/SocialMedia.css';
+import './Components/About/About.css';
+import './Components/NavBar/Navbar.css';
+import './Components/SocialMedia/SocialMedia.css';
 
-import About from './Components/About';
+import About from './Components/About/About';
 import Home from './Components/Home';
-import ContactMe from './Components/ContactMe';
+import Contact from './Components/Contact';
 import MyWorks from './Components/MyWorks';
 
 import {
@@ -26,7 +25,7 @@ function App() {
       <div className="App">
       <Routes>  
         <Route path="/" element={<Home />} />
-        <Route path="/contact" element={<ContactMe />} />
+        <Route path="/contact" element={<Contact />} />
         <Route path="/about" element={<About />} />
         <Route path="/myworks" element= {<MyWorks />} />
       </Routes>  

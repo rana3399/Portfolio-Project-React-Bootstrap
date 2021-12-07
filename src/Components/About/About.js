@@ -1,7 +1,8 @@
-import React from 'react'
-import Navbar from './Navbar'
-import SocialMedia from './SocialMedia'
-//import Ahmed from '../public/image/Rana-Ahmed-CV-01.png'
+import React from 'react';
+import Navbar from '../NavBar/Navbar';
+import SocialMedia from '../SocialMedia/SocialMedia';
+
+import profileImg from './ahmed.png';
  //const pic = require('../img/hero-img-1.jpg');
 
 
@@ -13,7 +14,7 @@ function About() {
             <section className="section about-section gray-bg" id="about">
             <div className="container">
                 <div className="row flex-row-reverse">
-                    <div className="col-lg-6">
+                    <div className="col-lg-6 col-sm-12">
                         <div className="about-text go-to">
                             <h3 className="dark-color">About Me</h3>
                             <h6 className="theme-color lead">A full stack Web-Developer</h6>
@@ -52,7 +53,7 @@ function About() {
                     </div>
                     <div className="col-lg-6">
                         <div className="about-avatar">
-                            <img src={require('../img/ahmed.png').default} title="" alt="my-personal-img"/>
+                            <img src={profileImg} title="" alt="my-personal-img"/>
                         </div>
                     </div>
                 </div>
@@ -67,4 +68,4 @@ function About() {
     )
 }
 
-export default About
+export default About;

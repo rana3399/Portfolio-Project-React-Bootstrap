@@ -16,4 +16,4 @@ const SocialMedia =()=> {
     )
 }
 
-export default SocialMedia
+export default SocialMedia;

@@ -1,9 +1,10 @@
 .section {
-    padding: 100px 0;
+  height: 50%;
+    padding: 2rem 0;
     position: relative;
 }
 .gray-bg {
-    background-color: #923737;
+    background-color: var(--primary-hover-red);
 }
 img {
     max-width: 100%;
@@ -83,7 +84,7 @@ img {
   }
 }
 
-.about-section .counter {
+/* .about-section .counter {
   padding: 22px 20px;
   background: #ffffff;
   border-radius: 10px;
@@ -101,7 +102,7 @@ img {
 .about-section .counter p {
   font-weight: 600;
   margin: 0;
-}
+} */
 mark {
     background-image: linear-gradient(rgba(252, 83, 86, 0.6), rgba(252, 83, 86, 0.6));
     background-size: 100% 3px;
