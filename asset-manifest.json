@@ -1,27 +1,30 @@
 {
   "files": {
-    "main.css": "/Portfolio-Project-React-Bootstrap/static/css/main.cd97896f.chunk.css",
-    "main.js": "/Portfolio-Project-React-Bootstrap/static/js/main.7cabf058.chunk.js",
-    "main.js.map": "/Portfolio-Project-React-Bootstrap/static/js/main.7cabf058.chunk.js.map",
-    "runtime-main.js": "/Portfolio-Project-React-Bootstrap/static/js/runtime-main.fd9d52f8.js",
-    "runtime-main.js.map": "/Portfolio-Project-React-Bootstrap/static/js/runtime-main.fd9d52f8.js.map",
-    "static/css/2.0a9ec390.chunk.css": "/Portfolio-Project-React-Bootstrap/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.856dc21a.chunk.js": "/Portfolio-Project-React-Bootstrap/static/js/2.856dc21a.chunk.js",
-    "static/js/2.856dc21a.chunk.js.map": "/Portfolio-Project-React-Bootstrap/static/js/2.856dc21a.chunk.js.map",
-    "static/js/3.a0dbe645.chunk.js": "/Portfolio-Project-React-Bootstrap/static/js/3.a0dbe645.chunk.js",
-    "static/js/3.a0dbe645.chunk.js.map": "/Portfolio-Project-React-Bootstrap/static/js/3.a0dbe645.chunk.js.map",
-    "index.html": "/Portfolio-Project-React-Bootstrap/index.html",
-    "static/css/2.0a9ec390.chunk.css.map": "/Portfolio-Project-React-Bootstrap/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.cd97896f.chunk.css.map": "/Portfolio-Project-React-Bootstrap/static/css/main.cd97896f.chunk.css.map",
-    "static/js/2.856dc21a.chunk.js.LICENSE.txt": "/Portfolio-Project-React-Bootstrap/static/js/2.856dc21a.chunk.js.LICENSE.txt",
-    "static/media/ahmed.png": "/Portfolio-Project-React-Bootstrap/static/media/ahmed.b08259f3.png",
-    "static/media/App.css": "/Portfolio-Project-React-Bootstrap/static/media/hero-img-1.161851fb.jpg"
+    "main.css": "/Rana-Ahmed-Portfolio/static/css/main.c980d03b.chunk.css",
+    "main.js": "/Rana-Ahmed-Portfolio/static/js/main.6e85c08d.chunk.js",
+    "main.js.map": "/Rana-Ahmed-Portfolio/static/js/main.6e85c08d.chunk.js.map",
+    "runtime-main.js": "/Rana-Ahmed-Portfolio/static/js/runtime-main.47aab037.js",
+    "runtime-main.js.map": "/Rana-Ahmed-Portfolio/static/js/runtime-main.47aab037.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/Rana-Ahmed-Portfolio/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.e7524fe3.chunk.js": "/Rana-Ahmed-Portfolio/static/js/2.e7524fe3.chunk.js",
+    "static/js/2.e7524fe3.chunk.js.map": "/Rana-Ahmed-Portfolio/static/js/2.e7524fe3.chunk.js.map",
+    "index.html": "/Rana-Ahmed-Portfolio/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/Rana-Ahmed-Portfolio/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.c980d03b.chunk.css.map": "/Rana-Ahmed-Portfolio/static/css/main.c980d03b.chunk.css.map",
+    "static/js/2.e7524fe3.chunk.js.LICENSE.txt": "/Rana-Ahmed-Portfolio/static/js/2.e7524fe3.chunk.js.LICENSE.txt",
+    "static/media/ahmed.b08259f3.png": "/Rana-Ahmed-Portfolio/static/media/ahmed.b08259f3.png",
+    "static/media/e-commerce.4c02c0e3.jpg": "/Rana-Ahmed-Portfolio/static/media/e-commerce.4c02c0e3.jpg",
+    "static/media/App.css": "/Rana-Ahmed-Portfolio/static/media/hero-img-1.161851fb.jpg",
+    "static/media/newspaper.2f464538.jpg": "/Rana-Ahmed-Portfolio/static/media/newspaper.2f464538.jpg",
+    "static/media/portfolio_logo.0b4ad060.PNG": "/Rana-Ahmed-Portfolio/static/media/portfolio_logo.0b4ad060.PNG",
+    "static/media/to_do_list_with_react_css_bootstrap.964d3db8.PNG": "/Rana-Ahmed-Portfolio/static/media/to_do_list_with_react_css_bootstrap.964d3db8.PNG",
+    "static/media/tourism.aea44ec6.jpg": "/Rana-Ahmed-Portfolio/static/media/tourism.aea44ec6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd9d52f8.js",
+    "static/js/runtime-main.47aab037.js",
     "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.856dc21a.chunk.js",
-    "static/css/main.cd97896f.chunk.css",
-    "static/js/main.7cabf058.chunk.js"
+    "static/js/2.e7524fe3.chunk.js",
+    "static/css/main.c980d03b.chunk.css",
+    "static/js/main.6e85c08d.chunk.js"
   ]
 }
