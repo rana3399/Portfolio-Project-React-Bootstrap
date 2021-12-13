@@ -53,7 +53,7 @@ const Contact =()=>{
 
                         <div className="form-group">
                             <div className="col-md-12 text-center my-3">
-                                <button type="submit" className="btn btn-primary btn-lg">Submit</button>
+                                <button type="submit" className="btn btn-primary btn-lg" disabled>Submit</button>
                             </div>
                         </div>
                     </fieldset>

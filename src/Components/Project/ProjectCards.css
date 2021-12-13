@@ -1,5 +1,6 @@
 /* ******************CARDS*********************** */
 
+
 .cards-main-header{
     display: flex;
     justify-content: center;
@@ -28,8 +29,8 @@
   
 
 .my-card-btn{
-    max-width: 8rem;
-    padding: .2rem .5rem;
+    width: 7rem;
+    padding: .4rem .5rem;
     background-color: rgb(36, 35, 35);
     color: var(--primary-white);
     border-radius: 1rem;

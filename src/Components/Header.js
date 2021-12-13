@@ -20,9 +20,9 @@ const Header=()=> {
                 <a href="#" className="btn-main-offer"> </a>
                 <div className= 'button-container'>
 
-                    <button className="my-btn">Contact me</button>
+                    <button className="my-btn fw-bolder">Contact me</button>
                     <a href="/image/Full_Stack_Web_Developer_Rana_Ahmed.pdf" download >
-                    <button className="my-btn"> Download CV </button>
+                    <button className="my-btn fw-bolder"> Download my CV </button>
                     </a>
                    
                 </div>

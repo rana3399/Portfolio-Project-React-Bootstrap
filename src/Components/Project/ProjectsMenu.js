@@ -1,44 +1,43 @@
-import coffeeImg  from "./project-img/coffee.jpg";
-import newspaperImg  from "./project-img/newspaper.jpg";
-import eCommerceImg  from "./project-img/e-commerce.jpg";
-import tourImg from "./project-img/tourism.jpg";
+import todoAppImg  from "./project-img/to_do_list_with_react_css_bootstrap.PNG";
+import rastaurantImg  from "./project-img/rastaurant_app_bootstrap_js_react.PNG";
+import portfolioImg from "./project-img/portfolio_img.PNG";
 
 const ProjectsMenu = [
     {
       id: 1,
-      image: coffeeImg,  
-      name: " Barcelona",
-      category: "Travel & Tourism",
-      Language: "HTML, CSS, JavaScript",
+      image: todoAppImg,  
+      name: " My ToDo List",
+      category: "Service",
+      language: "React, JavaScript, CSS, HTML",
       description:
-        "I have used updated HTML and most recent version of CSS while creating this website",
-      gitlink: "https://rana3399.github.io/Visit-Barcelona-1/",
-      live: "https://rana3399.github.io/Visit-Barcelona-1/"
+        "A to-do list app. Users will be able to write, edit and save their daily routine/tasks. Once the task is done user may delete it.",
+      gitlink: "https://github.com/rana3399/my-todo-list/tree/master",
+      live: "https://rana3399.github.io/my-todo-list"
     },
   
     {
       id: 2,
-      image: newspaperImg,
-      name: "Visit Barcelona",
-      category: "Travel & Tourism",
-      Language: "HTML, CSS, JavaScript",
+      image: rastaurantImg,
+      name: "Indian Rastaurant",
+      category: "Food industry",
+      language: "HTML5, CSS3, React, JavaScript",
       description:
         "I have used updated HTML and most recent version of CSS while creating this website",
-      gitlink: "https://rana3399.github.io/Visit-Barcelona-1/",
-      live: "https://rana3399.github.io/my-todo-list/"
+      gitlink: "https://github.com/rana3399/Indian_Restaurant",
+      live: "https://rana3399.github.io/Indian_Restaurant/"
     
     },
 
     {
       id: 3,
-      image: tourImg,
-      name: "Visit Barcelona",
+      image: portfolioImg,
+      name: "Portfolio of Rana-Ahmed",
       category: "Travel & Tourism",
-      Language: "HTML, CSS, JavaScript",
+      language: "React, JavaScript, Bootstrap, CSS, Mobile responsive",
       description:
-        "I have used updated HTML and most recent version of CSS while creating this website",
-      gitlink: "https://rana3399.github.io/Visit-Barcelona-1/",
-      live: "https://rana3399.github.io/my-todo-list/"
+        "This React portfolio website shows some of my best works. Fully mobile resposnive.",
+      gitlink: "https://github.com/rana3399/Rana-Ahmed-Portfolio",
+      live: "https://rana3399.github.io/Rana-Ahmed-Portfolio"
     
     }
 
