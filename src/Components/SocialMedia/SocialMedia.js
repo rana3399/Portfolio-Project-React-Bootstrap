@@ -11,6 +11,7 @@ const SocialMedia =()=> {
                     <SocialIcon className="social-icon" url="https://www.linkedin.com/in/rana-ahmed-rana/" target="_blank" />
                     <SocialIcon className="social-icon" url="https://github.com/rana3399"  target="_blank"/>
                 </div>
+                <div class="copy-r">&copy; All rights reserved to Rana Ahmed@2021</div>
             </div>
         </div>
     )

@@ -2,7 +2,7 @@ import React from 'react'
 import Particles from 'react-particles-js';
 
 import Navbar from './NavBar/Navbar';
-import Header from './Header';
+import Header from './Header/Header';
 import Projects from './Project/Projects';
 import SocialMedia from './SocialMedia/SocialMedia';
 

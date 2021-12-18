@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBars } from '@fortawesome/free-solid-svg-icons';
 import { Link } from 'react-router-dom';
 
-import logoImg from "./portfolio_logo.PNG";
+import logoImg from "./portfolio-logo.png";
 
 const Navbar = () => {
     return (

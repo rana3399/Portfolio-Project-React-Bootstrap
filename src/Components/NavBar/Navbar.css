@@ -13,20 +13,6 @@
     border-radius: 1.5rem;
   }
   
-  .my-btn{
-    border: .1rem solid var(--primary-orange);
-    background-color: transparent;
-    padding: .5rem;
-    border-radius: 1rem;
-    margin: 0 .5rem; 
-  }
-  
-  .my-btn:hover {
-    background-color: var(--primary-orange);
-    color:  var(--primary-white);
-    transition: all .9s ease; 
-  }
-  
   nav a.nav-link{
     font-size: 0.8rem;  
   }
@@ -46,4 +32,11 @@
     letter-spacing: 0.1rem;
     margin: 0 1rem; 
     border-top: 0.1875rem solid transparent;
+  }
+
+  @media only screen and (max-width: 600px)  {
+    .typed-text{
+      color: var(--primary-white);
+      
+    }
   }

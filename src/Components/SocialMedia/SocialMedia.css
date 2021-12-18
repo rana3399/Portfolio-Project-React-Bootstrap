@@ -16,3 +16,11 @@
     transition: all 1s ease;
   
   }
+
+  .copy-r {
+    width: 20rem;
+    display: flex;
+    color: rgb(124 124 124);
+    text-align: right;
+    justify-content: center;
+}
