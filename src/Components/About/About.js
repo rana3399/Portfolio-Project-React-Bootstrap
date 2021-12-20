@@ -2,7 +2,7 @@ import React from 'react';
 import Navbar from '../NavBar/Navbar';
 import SocialMedia from '../SocialMedia/SocialMedia';
 
-import profileImg from './ahmed.png';
+import profileImg from './ahmed-small.png';
 
 
 function About() {
@@ -12,8 +12,15 @@ function About() {
         <div>
             <section className="section about-section gray-bg" id="about">
             <div className="container">
-                <div className="row flex-row-reverse">
-                    <div className="col-lg-6 col-sm-12">
+                <div className="row flex">
+
+                    <div className="col-lg-6">
+                        <div className="about-avatar">
+                            <img className='my-personal-img' src={profileImg} title="" alt="my-personal-img"/>
+                        </div>
+                    </div>
+                
+                    <div className="col-lg-6 col-sm-12 ">
                         <div className="about-text go-to">
                             <h3 className="dark-color">About Me</h3>
                             <h6 className="theme-color lead">A Full Stack Web-Developer</h6>
@@ -74,11 +81,7 @@ function About() {
                             </div>
                         </div>
                     </div>
-                    <div className="col-lg-6">
-                        <div className="about-avatar">
-                            <img src={profileImg} title="" alt="my-personal-img"/>
-                        </div>
-                    </div>
+
                 </div>
                 
             </div>

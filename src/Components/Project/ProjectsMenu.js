@@ -1,6 +1,8 @@
 import todoAppImg  from "./project-img/to_do_list_with_react_css_bootstrap.PNG";
 import rastaurantImg  from "./project-img/rastaurant_app_bootstrap_js_react.PNG";
 import portfolioImg from "./project-img/portfolio_img.PNG";
+import cyfHotelImg from "./project-img/cyf-hotel.PNG"
+import hostelLifelImg from "./project-img/hostel-life.PNG"
 
 const ProjectsMenu = [
     {
@@ -39,7 +41,35 @@ const ProjectsMenu = [
       gitlink: "https://github.com/rana3399/Rana-Ahmed-Portfolio",
       live: "https://rana3399.github.io/Rana-Ahmed-Portfolio"
     
+    },
+
+    {
+      id: 4,
+      image: cyfHotelImg,
+      name: "CYF Hotel Database",
+      category: "Travel & Tourism",
+      language: "React, JavaScript, CSS",
+      description:
+        "This React portfolio website shows some of my best works. Fully mobile resposnive.",
+      gitlink: "https://github.com/rana3399/cyf-hotel-react",
+      live: "https://rana3399.github.io/cyf-hotel-react/"
+    
+    },
+
+    {
+      id: 5,
+      image: hostelLifelImg,
+      name: "Hostel Life (Under Development)",
+      category: "Hosteleria",
+      language: "PostgresSQL, Node.js, React, Bootstrap, JavaScript",
+      description:
+        `Final project of MigraCode bootcamp. A team of 5 students are developing a fully funtional website
+        by using PostgresSQL, Node.js, React, Bootstrap, JavaScript. `,
+      gitlink: "https://github.com/HostelLife/HostelLife",
+      live: "https://github.com/HostelLife/HostelLife"
+    
     }
+
 
   ];
   

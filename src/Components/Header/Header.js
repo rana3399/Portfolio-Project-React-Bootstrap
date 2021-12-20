@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom';
 import Typed from 'react-typed';
 import "./Header.css";
+import mycv from './Full_Stack_Web_Developer_Rana_Ahmed_CV_English.pdf'
 
 
 const Header=()=> {
@@ -23,9 +24,11 @@ const Header=()=> {
                 <div className= 'button-container'>
 
                     <Link to ='/contact' > <button className="my-btn fw-bolder">Contact me</button></Link>
-                    <a href="/image/Full_Stack_Web_Developer_Rana_Ahmed.pdf" download >
-                    <button className="my-btn fw-bolder">  Download my CV </button>
-                    </a>
+                   
+                    <a href={mycv} download >
+                    <button className="my-btn fw-bolder">  Download my CV  </button>
+                    </a> 
+                    
                    
                 </div>
             </div>
