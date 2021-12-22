@@ -1,4 +1,4 @@
-import './CSS/App.css';
+import './App.css';
 import './Components/About/About.css';
 import './Components/NavBar/Navbar.css';
 import './Components/SocialMedia/SocialMedia.css';

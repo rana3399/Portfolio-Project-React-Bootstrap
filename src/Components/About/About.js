@@ -35,7 +35,7 @@ function About() {
                     <div className="col-lg-6 col-sm-12 fw-bold">
                         <div className="about-text go-to ">
                             <h1 className="dark-color fw-bolder">About Me</h1>
-                            <h6 className="theme-color lead">A Full Stack Web-Developer</h6>
+                            <h6 className="text-white lead">A Full Stack Web-Developer</h6>
                             
                             <p>
                             I am a ongoing student of Full Stake Web-Development Bootcamp at MigraCode,Barcelona.
@@ -52,7 +52,7 @@ function About() {
                             me interact with the work environment and be professionally efficient.
                             </p>
                             <br />
-                            <h5><mark>Some of the main skills and tools</mark></h5> 
+                            <h5 className='dark-color fw-bolder'><mark>Some of the main skills and tools</mark></h5> 
                             <br />
                             <h5>✅ JavaScript, React, Bootstrap, CSS3, HTML5</h5>
                             <br />
