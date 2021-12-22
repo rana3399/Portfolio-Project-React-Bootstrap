@@ -14,15 +14,27 @@ function About() {
             <div className="container">
                 <div className="row flex">
 
-                    <div className="col-lg-6">
+                    <div className="">
                         <div className="about-avatar">
                             <img className='my-personal-img' src={profileImg} title="" alt="my-personal-img"/>
                         </div>
                     </div>
+
+                    <div className="col-md-6 mb-5">
+                        <div className="media ">
+                            <label classname>E-mail</label>
+                            <h5 className='text-white'>ranaAhmed.code@gmail.com</h5>
+                        </div>
+                        <div className="media">
+                            <label>Phone</label>
+                            <h5 className='text-white'>+34 6313 75245</h5>
+                        </div>
+
+                    </div>
                 
-                    <div className="col-lg-6 col-sm-12 ">
-                        <div className="about-text go-to">
-                            <h3 className="dark-color">About Me</h3>
+                    <div className="col-lg-6 col-sm-12 fw-bold">
+                        <div className="about-text go-to ">
+                            <h1 className="dark-color fw-bolder">About Me</h1>
                             <h6 className="theme-color lead">A Full Stack Web-Developer</h6>
                             
                             <p>
@@ -67,17 +79,7 @@ function About() {
                                     </div>
                     
                                 </div>
-                                <div className="col-md-6">
-                                    <div className="media">
-                                        <label>E-mail</label>
-                                        <h5>ranaAhmed.code@gmail.com</h5>
-                                    </div>
-                                    <div className="media">
-                                        <label>Phone</label>
-                                        <h5>+34 6313 75245</h5>
-                                    </div>
-
-                                </div>
+                                
                             </div>
                         </div>
                     </div>

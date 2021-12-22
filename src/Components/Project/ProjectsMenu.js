@@ -16,17 +16,17 @@ const ProjectsMenu = [
       gitlink: "https://github.com/rana3399/my-todo-list/tree/master",
       live: "https://rana3399.github.io/my-todo-list"
     },
-  
+
     {
       id: 2,
-      image: rastaurantImg,
-      name: "Indian Rastaurant",
-      category: "Food industry",
-      language: "HTML5, CSS3, React, JavaScript",
+      image: cyfHotelImg,
+      name: "CYF Hotel Database",
+      category: "Travel & Tourism",
+      language: "React, JavaScript, CSS",
       description:
-        "I have used updated HTML and most recent version of CSS while creating this website",
-      gitlink: "https://github.com/rana3399/Indian_Restaurant",
-      live: "https://rana3399.github.io/Indian_Restaurant/"
+        "This React portfolio website shows some of my best works. Fully mobile resposnive.",
+      gitlink: "https://github.com/rana3399/cyf-hotel-react",
+      live: "https://rana3399.github.io/cyf-hotel-react/"
     
     },
 
@@ -45,14 +45,14 @@ const ProjectsMenu = [
 
     {
       id: 4,
-      image: cyfHotelImg,
-      name: "CYF Hotel Database",
-      category: "Travel & Tourism",
-      language: "React, JavaScript, CSS",
+      image: rastaurantImg,
+      name: "Indian Rastaurant",
+      category: "Food industry",
+      language: "HTML5, CSS3, React, JavaScript",
       description:
-        "This React portfolio website shows some of my best works. Fully mobile resposnive.",
-      gitlink: "https://github.com/rana3399/cyf-hotel-react",
-      live: "https://rana3399.github.io/cyf-hotel-react/"
+        "I have used updated HTML and most recent version of CSS while creating this website",
+      gitlink: "https://github.com/rana3399/Indian_Restaurant",
+      live: "https://rana3399.github.io/Indian_Restaurant/"
     
     },
 

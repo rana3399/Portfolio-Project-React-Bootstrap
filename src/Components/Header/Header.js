@@ -23,7 +23,7 @@ const Header=()=> {
                 <a href="#" className="btn-main-offer"> </a>
                 <div className= 'button-container'>
 
-                    <Link to ='/contact' > <button className="my-btn fw-bolder">Contact me</button></Link>
+                    <Link to ='/about' > <button className="my-btn fw-bolder">About me</button></Link>
                    
                     <a href={mycv} download >
                     <button className="my-btn fw-bolder">  Download my CV  </button>
