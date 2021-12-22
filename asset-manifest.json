@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Rana-Ahmed-Portfolio/static/css/main.bb123de7.chunk.css",
-    "main.js": "/Rana-Ahmed-Portfolio/static/js/main.e62b0bb3.chunk.js",
-    "main.js.map": "/Rana-Ahmed-Portfolio/static/js/main.e62b0bb3.chunk.js.map",
+    "main.css": "/Rana-Ahmed-Portfolio/static/css/main.99788521.chunk.css",
+    "main.js": "/Rana-Ahmed-Portfolio/static/js/main.dd55569f.chunk.js",
+    "main.js.map": "/Rana-Ahmed-Portfolio/static/js/main.dd55569f.chunk.js.map",
     "runtime-main.js": "/Rana-Ahmed-Portfolio/static/js/runtime-main.47aab037.js",
     "runtime-main.js.map": "/Rana-Ahmed-Portfolio/static/js/runtime-main.47aab037.js.map",
     "static/css/2.0a9ec390.chunk.css": "/Rana-Ahmed-Portfolio/static/css/2.0a9ec390.chunk.css",
@@ -10,13 +10,14 @@
     "static/js/2.e7e10aa1.chunk.js.map": "/Rana-Ahmed-Portfolio/static/js/2.e7e10aa1.chunk.js.map",
     "index.html": "/Rana-Ahmed-Portfolio/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/Rana-Ahmed-Portfolio/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.bb123de7.chunk.css.map": "/Rana-Ahmed-Portfolio/static/css/main.bb123de7.chunk.css.map",
+    "static/css/main.99788521.chunk.css.map": "/Rana-Ahmed-Portfolio/static/css/main.99788521.chunk.css.map",
     "static/js/2.e7e10aa1.chunk.js.LICENSE.txt": "/Rana-Ahmed-Portfolio/static/js/2.e7e10aa1.chunk.js.LICENSE.txt",
     "static/media/Full_Stack_Web_Developer_Rana_Ahmed_CV_English.8abc5809.pdf": "/Rana-Ahmed-Portfolio/static/media/Full_Stack_Web_Developer_Rana_Ahmed_CV_English.8abc5809.pdf",
     "static/media/ahmed-small.f36c754f.png": "/Rana-Ahmed-Portfolio/static/media/ahmed-small.f36c754f.png",
     "static/media/cyf-hotel.044afe95.PNG": "/Rana-Ahmed-Portfolio/static/media/cyf-hotel.044afe95.PNG",
     "static/media/Header.css": "/Rana-Ahmed-Portfolio/static/media/hero-img-1.161851fb.jpg",
     "static/media/hostel-life.5ce014ff.PNG": "/Rana-Ahmed-Portfolio/static/media/hostel-life.5ce014ff.PNG",
+    "static/media/portfolio-logo.f7dfb97d.png": "/Rana-Ahmed-Portfolio/static/media/portfolio-logo.f7dfb97d.png",
     "static/media/portfolio_img.c407bb46.PNG": "/Rana-Ahmed-Portfolio/static/media/portfolio_img.c407bb46.PNG",
     "static/media/rastaurant_app_bootstrap_js_react.94acefdb.PNG": "/Rana-Ahmed-Portfolio/static/media/rastaurant_app_bootstrap_js_react.94acefdb.PNG",
     "static/media/to_do_list_with_react_css_bootstrap.964d3db8.PNG": "/Rana-Ahmed-Portfolio/static/media/to_do_list_with_react_css_bootstrap.964d3db8.PNG"
@@ -25,7 +26,7 @@
     "static/js/runtime-main.47aab037.js",
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.e7e10aa1.chunk.js",
-    "static/css/main.bb123de7.chunk.css",
-    "static/js/main.e62b0bb3.chunk.js"
+    "static/css/main.99788521.chunk.css",
+    "static/js/main.dd55569f.chunk.js"
   ]
 }
