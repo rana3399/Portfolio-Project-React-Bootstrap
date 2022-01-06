@@ -2,6 +2,8 @@ import React from 'react'
 //import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { SocialIcon } from 'react-social-icons';
 
+const userName = "Rana Ahmed"
+
 const SocialMedia =()=> {
     return (
         <div className= "social-main-container">
@@ -11,7 +13,7 @@ const SocialMedia =()=> {
                     <SocialIcon className="social-icon" url="https://www.linkedin.com/in/rana-ahmed-rana/" target="_blank" />
                     <SocialIcon className="social-icon" url="https://github.com/rana3399"  target="_blank"/>
                 </div>
-                <div class="copy-r">&copy; All rights reserved to Rana Ahmed@2021</div>
+                <div class="copy-r">All rights reserved to {userName} &copy; {new Date().getFullYear()}</div>
             </div>
         </div>
     )

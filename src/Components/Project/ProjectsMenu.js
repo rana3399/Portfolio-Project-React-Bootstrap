@@ -1,10 +1,24 @@
 import todoAppImg  from "./project-img/to_do_list_with_react_css_bootstrap.PNG";
-import rastaurantImg  from "./project-img/rastaurant_app_bootstrap_js_react.PNG";
+//import rastaurantImg  from "./project-img/rastaurant_app_bootstrap_js_react.PNG";
 import portfolioImg from "./project-img/portfolio_img.PNG";
 import cyfHotelImg from "./project-img/cyf-hotel.PNG"
-import hostelLifelImg from "./project-img/hostel-life.PNG"
+import hostelLifelImg from "./project-img/hostelApp-mobile.JPG"
 
 const ProjectsMenu = [
+    {
+      id: 0,
+      image: hostelLifelImg,
+      name: "Hostel App",
+      category: "Travel & Tourism",
+      language: "React, JavaScript, Node with Express, SQL, React component",
+      description:
+        `This app will help to connect and meet with other travellers and discover 
+        cities and places of interest together with app functionalities like Real-time chat, Google Map, QR code scanning options etc.`,
+
+      gitlink: "https://github.com/HostelLife/HostelLife",
+      live: "https://hostel-life-app.herokuapp.com"
+    
+    },
     {
       id: 1,
       image: todoAppImg,  
@@ -43,33 +57,18 @@ const ProjectsMenu = [
     
     },
 
-    {
-      id: 4,
-      image: rastaurantImg,
-      name: "Indian Rastaurant",
-      category: "Food industry",
-      language: "HTML5, CSS3, React, JavaScript",
-      description:
-        "I have used updated HTML and most recent version of CSS while creating this website",
-      gitlink: "https://github.com/rana3399/Indian_Restaurant",
-      live: "https://rana3399.github.io/Indian_Restaurant/"
+    // {
+    //   id: 4,
+    //   image: rastaurantImg,
+    //   name: "Indian Rastaurant",
+    //   category: "Food industry",
+    //   language: "HTML5, CSS3, React, JavaScript",
+    //   description:
+    //     "I have used updated HTML and most recent version of CSS while creating this website",
+    //   gitlink: "https://github.com/rana3399/Indian_Restaurant",
+    //   live: "https://rana3399.github.io/Indian_Restaurant/"
     
-    },
-
-    {
-      id: 5,
-      image: hostelLifelImg,
-      name: "Hostel Life (Under Development)",
-      category: "Hosteleria",
-      language: "PostgresSQL, Node.js, React, Bootstrap, JavaScript",
-      description:
-        `Final project of MigraCode bootcamp. A team of 5 students are developing a fully funtional website
-        by using PostgresSQL, Node.js, React, Bootstrap, JavaScript. `,
-      gitlink: "https://github.com/HostelLife/HostelLife",
-      live: "https://github.com/HostelLife/HostelLife"
-    
-    }
-
+    // },
 
   ];
   

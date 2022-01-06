@@ -2,7 +2,7 @@ import React from 'react';
 import Navbar from '../NavBar/Navbar';
 import SocialMedia from '../SocialMedia/SocialMedia';
 
-import profileImg from './ahmed-small.png';
+import profileImg from './ahmed-small-new.png';
 
 
 function About() {
