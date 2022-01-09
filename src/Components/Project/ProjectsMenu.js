@@ -19,6 +19,7 @@ const ProjectsMenu = [
       live: "https://hostel-life-app.herokuapp.com"
     
     },
+
     {
       id: 1,
       image: todoAppImg,  
@@ -27,8 +28,8 @@ const ProjectsMenu = [
       language: "React, JavaScript, CSS, HTML",
       description:
         "A to-do list app. Users will be able to write, edit and save their daily routine/tasks. Once the task is done user may delete it.",
-      gitlink: "https://github.com/rana3399/my-todo-list/tree/master",
-      live: "https://rana3399.github.io/my-todo-list"
+      gitlink: "https://github.com/rana3399/My_Todo_List",
+      live: "https://rana3399.github.io/My_Todo_List"
     },
 
     {
@@ -39,8 +40,8 @@ const ProjectsMenu = [
       language: "React, JavaScript, CSS",
       description:
         "This React portfolio website shows some of my best works. Fully mobile resposnive.",
-      gitlink: "https://github.com/rana3399/cyf-hotel-react",
-      live: "https://rana3399.github.io/cyf-hotel-react/"
+      gitlink: "https://github.com/rana3399/CYF_Hotel",
+      live: "https://rana3399.github.io/CYF_Hotel"
     
     },
 
@@ -52,8 +53,8 @@ const ProjectsMenu = [
       language: "React, JavaScript, Bootstrap, CSS, Mobile responsive",
       description:
         "This React portfolio website shows some of my best works. Fully mobile resposnive.",
-      gitlink: "https://github.com/rana3399/Rana-Ahmed-Portfolio",
-      live: "https://rana3399.github.io/Rana-Ahmed-Portfolio"
+      gitlink: "https://github.com/rana3399/Rana_Ahmed_Portfolio",
+      live: "https://rana3399.github.io/Rana_Ahmed_Portfolio/"
     
     },
 
