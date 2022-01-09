@@ -66,7 +66,7 @@ const ProjectsMenu = [
     //   description:
     //     "I have used updated HTML and most recent version of CSS while creating this website",
     //   gitlink: "https://github.com/rana3399/Indian_Restaurant",
-    //   live: "https://rana3399.github.io/Indian_Restaurant/"
+    //   live: "https://rana3399.github.io/Indian_Restaurant"
     
     // },
 

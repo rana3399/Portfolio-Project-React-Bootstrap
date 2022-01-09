@@ -46,10 +46,19 @@ const Contact =()=>{
                         <div className="form-group">
                             <span className="col-md-1 col-md-offset-2 text-center"></span>
                             <div className="col-md-12">
-                                <textarea className="form-control" id="message" name="message" placeholder="Enter your massage for us here. We will get back to you within 2 business days." rows="7"></textarea>
+                                <textarea className="form-control" id="message" name="message" rows="7"></textarea>
                             </div>
                         </div>
-                        
+            
+                        <div className="media ">
+                            <label classname>E-mail</label>
+                            <h5 className='text-dark'>ranaAhmed.code@gmail.com</h5>
+                        </div>
+
+                        <div className="media">
+                            <label>Phone</label>
+                            <h5 className='text-dark'>+34 6313 75245</h5>
+                        </div>
 
                         <div className="form-group">
                             <div className="col-md-12 text-center my-3">
