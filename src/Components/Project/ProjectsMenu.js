@@ -77,7 +77,7 @@ const ProjectsMenu = [
       image: newsWeekImg,
       name: "News Week",
       category: "Journalism",
-      language: "HTML5, Boostrap",
+      language: "HTML5, Bootstrap",
       description:
         "I have used updated HTML and most recent version of Bootstrap only to create this website",
       gitlink: "https://github.com/rana3399/NewsWeek_Bootstrap",
