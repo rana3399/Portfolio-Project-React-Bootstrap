@@ -1,12 +1,13 @@
 import todoAppImg  from "./project-img/to_do_list_with_react_css_bootstrap.PNG";
 //import rastaurantImg  from "./project-img/rastaurant_app_bootstrap_js_react.PNG";
 import portfolioImg from "./project-img/portfolio_img.PNG";
-import cyfHotelImg from "./project-img/cyf-hotel.PNG"
-import hostelLifelImg from "./project-img/hostelApp-mobile.JPG"
+import cyfHotelImg from "./project-img/cyf-hotel.PNG";
+import hostelLifelImg from "./project-img/hostelApp-mobile.JPG";
+import newsWeekImg from "./project-img/newsWeek.JPG";
 
 const ProjectsMenu = [
     {
-      id: 0,
+      id: 1,
       image: hostelLifelImg,
       name: "Hostel App",
       category: "Travel & Tourism",
@@ -21,7 +22,7 @@ const ProjectsMenu = [
     },
 
     {
-      id: 1,
+      id: 2,
       image: todoAppImg,  
       name: " My ToDo List",
       category: "Service",
@@ -33,7 +34,7 @@ const ProjectsMenu = [
     },
 
     {
-      id: 2,
+      id: 3,
       image: cyfHotelImg,
       name: "CYF Hotel Database",
       category: "Travel & Tourism",
@@ -46,7 +47,7 @@ const ProjectsMenu = [
     },
 
     {
-      id: 3,
+      id: 4,
       image: portfolioImg,
       name: "Portfolio of Rana-Ahmed",
       category: "Travel & Tourism",
@@ -54,12 +55,12 @@ const ProjectsMenu = [
       description:
         "This React portfolio website shows some of my best works. Fully mobile resposnive.",
       gitlink: "https://github.com/rana3399/Rana_Ahmed_Portfolio",
-      live: "https://rana3399.github.io/Rana_Ahmed_Portfolio/"
+      live: "https://rana3399.github.io/Rana-Ahmed-Portfolio/"
     
     },
 
     // {
-    //   id: 4,
+    //   id: 5,
     //   image: rastaurantImg,
     //   name: "Indian Rastaurant",
     //   category: "Food industry",
@@ -68,8 +69,21 @@ const ProjectsMenu = [
     //     "I have used updated HTML and most recent version of CSS while creating this website",
     //   gitlink: "https://github.com/rana3399/Indian_Restaurant",
     //   live: "https://rana3399.github.io/Indian_Restaurant"
-    
+
     // },
+
+     {
+      id: 6,
+      image: newsWeekImg,
+      name: "News Week",
+      category: "Journalism",
+      language: "HTML5, Boostrap",
+      description:
+        "I have used updated HTML and most recent version of Bootstrap only to create this website",
+      gitlink: "https://github.com/rana3399/NewsWeek_Bootstrap",
+      live: "https://rana3399.github.io/NewsWeek_Bootstrap"
+
+    }
 
   ];
   

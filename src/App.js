@@ -1,7 +1,4 @@
 import './App.css';
-import './Components/About/About.css';
-import './Components/NavBar/Navbar.css';
-import './Components/SocialMedia/SocialMedia.css';
 
 import About from './Components/About/About';
 import Home from './Components/Home';
@@ -10,12 +7,10 @@ import MyWorks from './Components/MyWorks';
 
 import {
   HashRouter,
-  Link,
   Routes,
   Route
 } from 'react-router-dom';
 import "bootstrap/dist/css/bootstrap.min.css"
-import Particles from 'react-particles-js';
 
 function App() {
   return (

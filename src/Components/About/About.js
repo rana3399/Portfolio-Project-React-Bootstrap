@@ -1,7 +1,8 @@
 import React from 'react';
-import Navbar from '../NavBar/Navbar';
-import SocialMedia from '../SocialMedia/SocialMedia';
 
+import Navbar from '../NavBar/Navbar';
+import './About.css';
+import SocialMedia from '../SocialMedia/SocialMedia';
 import profileImg from './ahmed-small-new.png';
 
 
