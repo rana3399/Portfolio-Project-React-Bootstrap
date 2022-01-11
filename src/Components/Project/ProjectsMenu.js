@@ -4,6 +4,7 @@ import portfolioImg from "./project-img/portfolio_img.PNG";
 import cyfHotelImg from "./project-img/cyf-hotel.PNG";
 import hostelLifelImg from "./project-img/hostelApp-mobile.JPG";
 import newsWeekImg from "./project-img/newsWeek.JPG";
+import saasLandingPageImg from "./project-img/Saas_Landing_Page.JPG";
 
 const ProjectsMenu = [
     {
@@ -82,6 +83,19 @@ const ProjectsMenu = [
         "I have used updated HTML and most recent version of Bootstrap only to create this website",
       gitlink: "https://github.com/rana3399/NewsWeek_Bootstrap",
       live: "https://rana3399.github.io/NewsWeek_Bootstrap"
+
+    },
+
+       {
+      id: 6,
+      image: saasLandingPageImg,
+      name: "Personal Assistant",
+      category: "Well-being",
+      language: "SaaS, CSS-Grid, HTML5, Mobile-Responsive",
+      description:
+        "A Mobile resposive landing page developed by using SaaS, Css Grid and HTML",
+      gitlink: "https://github.com/rana3399/Landing_Page_SAAS/settings/pages",
+      live: "https://rana3399.github.io/Landing_Page_SAAS/"
 
     }
 
