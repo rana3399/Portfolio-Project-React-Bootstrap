@@ -94,7 +94,7 @@ const ProjectsMenu = [
       language: "SaaS, CSS-Grid, HTML5, Mobile-Responsive",
       description:
         "A Mobile resposive landing page developed by using SaaS, Css Grid and HTML",
-      gitlink: "https://github.com/rana3399/Landing_Page_SAAS/settings/pages",
+      gitlink: "https://github.com/rana3399/Landing_Page_SAAS",
       live: "https://rana3399.github.io/Landing_Page_SAAS/"
 
     }
