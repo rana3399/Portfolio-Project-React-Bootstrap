@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom';
 import Typed from 'react-typed';
 import "./Header.css";
-import mycv from './Full_Stack_Web_Developer_Rana_Ahmed_CV_English.pdf'
+import mycv from './Web_Developer_Rana_Ahmed.pdf'
 
 const userName = "Rana Ahmed";
 const profession = "A Full-Stack Web-Developer"
