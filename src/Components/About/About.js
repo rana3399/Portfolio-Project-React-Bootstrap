@@ -39,13 +39,10 @@ function About() {
                             <h6 className="text-white lead">A Full Stack Web-Developer</h6>
                             
                             <p>
-                            I am a ongoing student of Full Stake Web-Development Bootcamp at MigraCode,Barcelona.
+                            Recently i have achieved my Diploma in the field of Web Development from MigraCode Bootcamp, Barcelona.
                             </p>
                             <br />
-                            <p>Currently I and my team are working on our final project - building a fully functional 
-                            web-app using React, Bootstrap for front-end. And Node.js and PostgreSQL 
-                            to develop the backend and database system. 
-                            </p>
+                            <p>I like to learn new technologies and practically apply them in my projects.</p>
                             <br />
                             <p>
                             While working on different projects following Agile and 
@@ -55,7 +52,7 @@ function About() {
                             <br />
                             <h5 className='dark-color fw-bolder'><mark>Some of the main skills and tools</mark></h5> 
                             <br />
-                            <h5>✅ JavaScript, React, Bootstrap, CSS3, HTML5</h5>
+                            <h5>✅ JavaScript, React, Bootstrap, CSS3, SaaS, HTML5</h5>
                             <br />
                             <h5>✅ Node.js with Express, PostgreSQL</h5>
                             <br />
