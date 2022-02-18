@@ -1,44 +1,39 @@
 /* ******************CARDS*********************** */
 
+.cards-main-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+}
 
-.cards-main-header{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 2rem; 
+.cards-main-header h3 {
+  border: 1px solid black;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  background-color: var(--primary-orange);
 }
-  
-.cards-main-header h3{
-  
-    border: 1px solid black;
-    border-radius: .5rem;
-    padding: 1rem;
-    background-color: var(--primary-orange); 
-}
-  
-  
-.card-main-container{
-    display: flex;
-    justify-content: center;
-    text-align: center;
-    align-content: center;
-    margin-top: 5rem;
-    background-color: var(--primary-hover-red);
-    
-}
-  
 
-.my-card-btn{
-    width: 7rem;
-    padding: .4rem .5rem;
-    background-color: rgb(36, 35, 35);
-    color: var(--primary-white);
-    border-radius: 1rem;
-    font-size: medium;
+.card-main-container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-content: center;
+  margin-top: 5rem;
+  background-color: var(--primary-hover-red);
 }
-  
+
+.my-card-btn {
+  width: 7rem;
+  padding: 0.4rem 0.5rem;
+  background-color: rgb(36, 35, 35);
+  color: var(--primary-white);
+  border-radius: 1rem;
+  font-size: medium;
+}
+
 .my-card-btn:hover {
-    background-color: var(--primary-orange);
-    color:  var(--primary-white);
-    transition: all .9s ease;
+  background-color: var(--primary-orange);
+  color: var(--primary-white);
+  transition: all 0.9s ease;
 }

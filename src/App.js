@@ -14,22 +14,22 @@ import "bootstrap/dist/css/bootstrap.min.css"
 
 function App() {
   return (
-    
-    <>
-    <HashRouter>
-      <div className="App">
-      <Routes>  
-        <Route path="/" element={<Home />} />
-        <Route path="/contact" element={<Contact />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/myworks" element= {<MyWorks />} />
-      </Routes>  
-      
-      </div>
 
-    </HashRouter>
-  </>
-   
+    <>
+      <HashRouter>
+        <div className="App">
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/contact" element={<Contact />} />
+            <Route path="/about" element={<About />} />
+            <Route path="/myworks" element={<MyWorks />} />
+          </Routes>
+
+        </div>
+
+      </HashRouter>
+    </>
+
   );
 }
 

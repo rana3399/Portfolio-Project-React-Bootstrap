@@ -7,39 +7,39 @@ import Projects from './Project/Projects';
 import SocialMedia from './SocialMedia/SocialMedia';
 
 function Home() {
-    return (
-        <div>
-            
-            <Particles 
-                params={{
-                    Particles:{
-                    number: {
-                        value: 30,
-                        density: {
+   return (
+      <div>
+
+         <Particles
+            params={{
+               Particles: {
+                  number: {
+                     value: 30,
+                     density: {
                         enable: true,
                         value_area: 900
-                        }
-                    },
-                    shape: {
-                        type: "star",
-                        stroke: {
+                     }
+                  },
+                  shape: {
+                     type: "star",
+                     stroke: {
                         width: 6,
                         color: "#f9ab"
 
-                        }
-                    }
-                    }
-                }}
-            
-            />
+                     }
+                  }
+               }
+            }}
 
-            <Navbar />
-            <Header />
-            <Projects />
-            <SocialMedia />
+         />
 
-        </div>
-    )
+         <Navbar />
+         <Header />
+         <Projects />
+         <SocialMedia />
+
+      </div>
+   )
 }
 
 export default Home
