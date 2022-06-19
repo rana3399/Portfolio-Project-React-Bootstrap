@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Rana-Ahmed-Portfolio/static/css/main.4de83a0c.chunk.css",
-    "main.js": "/Rana-Ahmed-Portfolio/static/js/main.4cbb8ac9.chunk.js",
-    "main.js.map": "/Rana-Ahmed-Portfolio/static/js/main.4cbb8ac9.chunk.js.map",
+    "main.css": "/Rana-Ahmed-Portfolio/static/css/main.3dcfa567.chunk.css",
+    "main.js": "/Rana-Ahmed-Portfolio/static/js/main.11d36830.chunk.js",
+    "main.js.map": "/Rana-Ahmed-Portfolio/static/js/main.11d36830.chunk.js.map",
     "runtime-main.js": "/Rana-Ahmed-Portfolio/static/js/runtime-main.47aab037.js",
     "runtime-main.js.map": "/Rana-Ahmed-Portfolio/static/js/runtime-main.47aab037.js.map",
     "static/css/2.0a9ec390.chunk.css": "/Rana-Ahmed-Portfolio/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.e02efee3.chunk.js": "/Rana-Ahmed-Portfolio/static/js/2.e02efee3.chunk.js",
-    "static/js/2.e02efee3.chunk.js.map": "/Rana-Ahmed-Portfolio/static/js/2.e02efee3.chunk.js.map",
+    "static/js/2.98365327.chunk.js": "/Rana-Ahmed-Portfolio/static/js/2.98365327.chunk.js",
+    "static/js/2.98365327.chunk.js.map": "/Rana-Ahmed-Portfolio/static/js/2.98365327.chunk.js.map",
     "index.html": "/Rana-Ahmed-Portfolio/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/Rana-Ahmed-Portfolio/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.4de83a0c.chunk.css.map": "/Rana-Ahmed-Portfolio/static/css/main.4de83a0c.chunk.css.map",
-    "static/js/2.e02efee3.chunk.js.LICENSE.txt": "/Rana-Ahmed-Portfolio/static/js/2.e02efee3.chunk.js.LICENSE.txt",
+    "static/css/main.3dcfa567.chunk.css.map": "/Rana-Ahmed-Portfolio/static/css/main.3dcfa567.chunk.css.map",
+    "static/js/2.98365327.chunk.js.LICENSE.txt": "/Rana-Ahmed-Portfolio/static/js/2.98365327.chunk.js.LICENSE.txt",
     "static/media/Saas_Landing_Page.357e3e74.JPG": "/Rana-Ahmed-Portfolio/static/media/Saas_Landing_Page.357e3e74.JPG",
-    "static/media/Web_Developer_Rana_Ahmed.857f6ef2.pdf": "/Rana-Ahmed-Portfolio/static/media/Web_Developer_Rana_Ahmed.857f6ef2.pdf",
+    "static/media/Web_Developer_Rana_Ahmed_1.0bfb8256.pdf": "/Rana-Ahmed-Portfolio/static/media/Web_Developer_Rana_Ahmed_1.0bfb8256.pdf",
     "static/media/ahmed-small-new.8ec951eb.png": "/Rana-Ahmed-Portfolio/static/media/ahmed-small-new.8ec951eb.png",
     "static/media/cyf-hotel.044afe95.PNG": "/Rana-Ahmed-Portfolio/static/media/cyf-hotel.044afe95.PNG",
     "static/media/Header.css": "/Rana-Ahmed-Portfolio/static/media/hero-img-1.161851fb.jpg",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.47aab037.js",
     "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.e02efee3.chunk.js",
-    "static/css/main.4de83a0c.chunk.css",
-    "static/js/main.4cbb8ac9.chunk.js"
+    "static/js/2.98365327.chunk.js",
+    "static/css/main.3dcfa567.chunk.css",
+    "static/js/main.11d36830.chunk.js"
   ]
 }
